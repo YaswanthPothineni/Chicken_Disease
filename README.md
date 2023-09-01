@@ -1,1 +1,1 @@
-# Chicken_Disease
+# Fake_News_Detector
